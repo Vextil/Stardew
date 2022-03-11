@@ -26,8 +26,6 @@ do
 done
 
 # Run extra steps for certain mods
-/opt/configure-remotecontrol-mod.sh
-
 /opt/tail-smapi-log.sh &
 
 # Ready to start!

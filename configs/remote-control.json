@@ -1,0 +1,5 @@
+{
+    "everyoneIsAdmin": false,
+    "admins": [{"id": 731047453632315573, "name": "Vex"}],
+    "shouldAssignAdminToFirstCabinFarmer": false
+  }
